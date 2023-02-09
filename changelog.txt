@@ -1,0 +1,17 @@
+1.0
+    -first version with paths, Scubway sandwhich, money, health, and some basic commands.
+1.1
+    -added gambling.
+1.2
+    -added fishing, strange soup, and more foods.
+1.3
+    -added commands like "f" that are short for "forward".
+1.4
+    -changed changelog.
+    -added progress saves using commands "save", "load", and "wipe".
+    -fixed "eat 0?" bug.
+1.5
+    -added blocked.html
+1.6
+    -cleaned extra code
+    -changed statistics system
