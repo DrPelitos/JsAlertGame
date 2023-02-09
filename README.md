@@ -1,4 +1,4 @@
-# JsAlertGameV1.5
+# JsAlertGame
 By Julian Lehmann Melgar
   
 # Launching
