@@ -12,6 +12,7 @@ If you are trying to run this game on a school computer with GoGuardian, follow 
   
   2.) Find and run blocked.html.
     If blocked.html does not work, follow these steps:
+    
       1.) Go to this link: chrome://settings/content.
       
       2.) Scroll to the bottom and click on "Pop-ups and redirects".
